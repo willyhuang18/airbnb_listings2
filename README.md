@@ -3,8 +3,8 @@
 This is a responsive web application built with a vanilla frontend stack (HTML5, CSS3, ES6+). It dynamically displays San Francisco rental data via AJAX, featuring a responsive UI and intelligent status indicators.
 
 ## 🚀 Live Links
-- **GitHub Pages**: [Paste your deployment link here]
-- **Code Repository**: [Paste your GitHub repo link here]
+- **GitHub Pages**: [Airbnb - Live Site](https://willyhuang18.github.io/airbnb_listings2/)
+- **Code Repository**: [Repo](https://github.com/willyhuang18/airbnb_listings2.git)
 
 ## 📝 Core Features
 - **Asynchronous Data Fetching**: Uses the `fetch` API with `async/await` to retrieve data from a local `airbnb_sf_listings_500.json` dataset.
